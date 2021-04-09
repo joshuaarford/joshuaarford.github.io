@@ -1,28 +1,37 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Data Science"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Josh Arford"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user 
-      href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
-  right:
-    - text: "Contact me"
+    - text: "Sun and Happiness"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: Sunny_Happy.html
+    - text: "Excel Time Series Tutorial"
+      icon: fa-envelope-o
+      href: Excel1.html
+    - text: "Fortune 500 Data"
+      icon: fa-rss
+      href: Python1.html # CHANGE HERE OR DELETE ALL 3 LINES 
+    - text: "Matlab Projects"
+      icon: fa-envelope-o
+      href: Matlab1.html                    # CHANGE HERE 
+    - text: "NFL Travel Correlation"
+      icon: fa-envelope-o
+      href: R1.html      # CHANGE HERE 
+    - text: "NFL Travel Correlation"
+      icon: fa-envelope-o
+      href: Excel-andPython.html       # CHANGE HERE 
+  right:
+    - text: "Resume"
+      icon: fa-envelope-o
+      href: Resume.html                    # CHANGE HERE 
+    - text: "Intersnhip Summary"
+      icon: fa-envelope-o
+      href: Internship Summary.html_document      # CHANGE HERE 
 output:
   html_document:
     theme: cosmo

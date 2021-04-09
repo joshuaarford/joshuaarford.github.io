@@ -2,4 +2,4 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+The purpose of this website is to display my favorite past and current projects in one place. Enjoy!
